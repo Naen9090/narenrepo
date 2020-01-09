@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+int fact() 
+{
     int n, i;
     unsigned long long fact = 1;
     printf("Enter an integer: ");
